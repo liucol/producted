@@ -10,3 +10,6 @@
 ##### https://liucol.github.io/test/
 #### 5，bootstrapt实现的一个自适应网页
 ##### https://liucol.github.io/self-adaption/
+#### 6，tab切换
+#### https://liucol.github.io/collection-arrangement/tab切换/Tab1.html
+#### https://liucol.github.io/collection-arrangement/tab切换/Tab2.html
