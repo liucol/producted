@@ -15,3 +15,5 @@
 ##### https://liucol.github.io/collection-arrangement/tab切换/Tab2.html
 #### 7，flex简单布局
 ##### https://liucol.github.io/collection-arrangement/flex例子/index.html  
+#### 8，jquery-ajax-新闻列表加载
+##### https://github.com/liucol/collection-arrangement/tree/master/jquery-ajax-new
