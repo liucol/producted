@@ -28,3 +28,5 @@
 ##### 淡入淡出的轮播+自动播放
 ##### 代码 https://github.com/liucol/collection-arrangement/tree/master/slide_fadein_fadeout
 ##### 预览 https://liucol.github.io/collection-arrangement/slide_fadein_fadeout/index.html
+#### 12 简单自制瀑布流布局
+##### 预览 https://liucol.github.io/collection-arrangement/waterfull/index.html
