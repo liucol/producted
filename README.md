@@ -30,5 +30,5 @@
 ##### 预览 https://liucol.github.io/collection-arrangement/slide_fadein_fadeout/index.html
 #### 12 简单自制瀑布流布局
 ##### 预览 https://liucol.github.io/collection-arrangement/waterfull/index.html
-#### 13 木桶布局+懒加载
+#### 13 木桶布局+懒加载+无限加载图片
 ##### 预览 https://liucol.github.io/collection-arrangement/mutongbuju-04-09/
