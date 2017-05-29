@@ -20,7 +20,7 @@
 #### 9，jquery实现图片懒加载
 ##### https://liucol.github.io/collection-arrangement/jq-lazy-load/
 #### 10，jquery实现新闻列表懒加载
-##### https://github.com/liucol/collection-arrangement/tree/master/jquery-ajax-new-autoloading
+##### 代码 https://github.com/liucol/collection-arrangement/tree/master/jquery-ajax-new-autoloading
 #### 11，轮播（jQuery+js）
 ##### 左右无限切换的轮播+自动播放
 ##### 代码 https://github.com/liucol/collection-arrangement/tree/master/slide_limitless
