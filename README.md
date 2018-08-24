@@ -12,6 +12,7 @@
 ##### 预览 https://liucol.github.io/jd/
 #### 6，静态网站
 ##### https://liucol.github.io/design-page/
+##### 购物网站首页： https://liucol.github.io/mall/index.html
 #### 7，理财宝
 ##### https://liucol.github.io/licaibao/src/index.html
 #### 8，H5+CSS3简单动画效果（头像标签展示）
@@ -41,3 +42,13 @@
 ##### 购物商城首页  https://liucol.github.io/mall/index.html
 #### 17 木桶布局+懒加载+无限加载图片
 ##### 预览 https://liucol.github.io/collection-arrangement/mutongbuju-04-09/
+#### 18, 淘手游线上项目
+##### H5检索： https://m.taoshouyou.com/
+#### 19，初心互动线上项目（Vue+webpack）
+##### 三生三世： http://web.chuxinhudong.com/static/sansheng/2/home#/
+##### 凡人修仙： http://web.chuxinhudong.com/static/fanren/3/home#/
+##### 游戏查询： http://chxweb.chuxinhudong.com/static/weixin/home#/searach
+##### 礼包领取： http://chxweb.chuxinhudong.com/static/weixin/home#/ 
+##### 玩家账号绑定： http://chxweb.chuxinhudong.com/static/weixin/home#/bindaccount
+##### 游戏网站数据管理后台： http://web.chuxinhudong.com/admin/home#/#
+##### 玩家数据网站管理后台： http://chxweb.chuxinhudong.com/admin/home#/
