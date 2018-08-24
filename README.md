@@ -42,7 +42,7 @@
 ##### 购物商城首页  https://liucol.github.io/mall/index.html
 #### 17 木桶布局+懒加载+无限加载图片
 ##### 预览 https://liucol.github.io/collection-arrangement/mutongbuju-04-09/
-#### 18, 淘手游线上项目
+#### 18, 淘手游线上项目（smarty+fis3）
 ##### H5检索： https://m.taoshouyou.com/
 #### 19，初心互动线上项目（Vue+webpack）
 ##### 三生三世： http://web.chuxinhudong.com/static/sansheng/2/home#/
